@@ -1,0 +1,111 @@
+.light {
+    background-color: lightgrey;
+color: black
+}
+
+.dark {
+    background-color: black;
+color: white
+}
+
+.new {
+    border: 2px solid yellow;
+box-shadow: 2px 2px 2px grey;
+}
+ 
+/* Ushtrimi 2 */
+
+#main-title {
+    background-color: yellow;
+color: grey;
+}
+
+.title {
+    background-color: grey;
+color: white;
+}
+
+/* Ushtrimi 3 */
+
+.shkronja {
+    font-size: 100px;
+}
+
+.fjala {
+    font-size: 50px;
+}
+
+/* Ushtrimi 4 */
+
+table {
+    color: white;
+    width: 100px;
+ padding: 1cm;
+}
+
+thead {
+    color: black;
+    font-weight: bold;
+}
+tr{
+background-color: green;
+padding: 1cm;
+height: 80px;
+border-bottom: 1px;
+}
+td{
+        padding: 1cm;
+  border-width: 20px;
+}
+
+/* Ushtrimi 5 */
+.paragraf5{
+    width: 200px;
+    background-color: rgb(188, 188, 188);
+    padding: 20px;
+    border: 3px solid black;
+    margin: 50px;
+}
+
+/*Ushtrimi 6*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+ 
+    
+ width: 75vh;
+ height: 25vh
+}
+h1 {
+    text-decoration: underline;
+}
+
+hr {
+    width: 33%;
+    border-color: red;
+    margin-top: 10px;
+    margin-left: 150px;
+
+}
+
+.WS {
+    background-color: gray;
+}
+
+.FD{
+    background-color: gray;
+}
+
+.ES {
+    background-color:blanchedalmond;
+}
+
+.KD {
+    background-color:blanchedalmond;
+}
+
+
